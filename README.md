@@ -13,14 +13,14 @@ In assignment 1, you are expected to:
 2. Use EclEmma to measure test coverage; and
 3. Build a test coverage tool with Soot.
 
-We have prepared tutorials to help you accomplish this assignment.
+We have prepared tutorials to brief you on this assignment. You may need to pick up some APIs by yourself.
 
 ### Have Questions?
 1. If you have questions, please first check our [FAQ](Assignment1_FAQ.md). 
 2. If your problem is not solved, you are recommended to create `Issues` in this repository.
-   Issues shall be replied by the TA within 24 hrs.
+   Issues shall be replied by the TA within 24 hrs. You are highly encouraged to start early.
 3. If you want to discuss with other classmates, you can go to `Discussions` of this repository. 
-   This repository is `ONLY` for the programming assignment. 
+   This repository is `ONLY` for the programming assignment. Note that assignments must be individual work.
    Note: Your reading reports and related discussions for the reading assignment should be made on CANVAS.
 3. If you don't want your question to be visible to other classmates, you can send an email to the TA. 
 
@@ -70,7 +70,7 @@ A short tutorial about Randoop is avaiable [here](./tutorials/randoop.md), inclu
 1. You need to use Randoop to generate **5 different test suites** for the given program.
 2. Each test suite must achieve at least 50% statement coverage.
 3. The 5 test suites should be different from each other. Randoop parameter `--randomseed` may be helpful.
-4. Package name of generated test suites should be `comp5111.assignment.cut`. Randoop parameter `--junit-package-name` may be helpful.
+4. The package name of generated test suites should be `comp5111.assignment.cut`. Randoop parameter `--junit-package-name` may be helpful.
 5. The 5 test suites should be put in `src/test/randoop<i>` for the `<i>`th test suite, where `0<=i<=4`. Randoop parameter `--junit-output-dir` may be helpful.
 
 #### Submissions: 
@@ -156,7 +156,7 @@ For each coverage criterion (Task2, Task3, and Bonus Task), your program needs t
 ## Assignment 1 Submission
 
 - You are required to submit your assignment to [CANVAS](https://canvas.ust.hk/courses/47981/assignments).
-- Please put all your code, screenshot, readme and etc. into a single folder and compress it to `comp5111asg01.zip`
+- Please put all your code, screenshot, readme and so on into a single folder and compress it to `comp5111asg01.zip`
 
 The recommended folder structure is:
 
