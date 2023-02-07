@@ -1,6 +1,6 @@
 # COMP5111 (Spring 2023) Assignment 1
 
-## Deadline: 18 March 2023
+## Deadline: 11:55pm 18 March 2023
 
 ## Update
 
