@@ -17,9 +17,9 @@ You can follow these steps to use Randoop to generate test cases.
 
 ### **1. Install Randoop**
 
-We have already prepared the target version: Randoop-4.2.7 `jar` file in [lib](../lib) and you do not need to do anything on the installation.
+We have already prepared the target version: `randoop-all-4.3.1.jar` file in [lib](../lib) and you do not need to do anything on the installation.
 
-In case you want to manually install the Randoop, please refer to the [official guide of Randoop](https://randoop.github.io/randoop/manual/#getting_randoop) and choose the target version: `randoop-all-4.2.7.jar`
+In case you want to manually install the Randoop, please refer to the [official guide of Randoop](https://randoop.github.io/randoop/manual/#getting_randoop) and choose the target version: `randoop-all-4.3.1.jar`
 
 Please Note the subtle differences to set environment variables on Windows and Unix-based systems.
 

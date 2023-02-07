@@ -1,0 +1,28 @@
+Overall: 
+percentage: 26.0%
+
+==============================================================
+
+comp5111.assignment.cut.Subject$NumberTasks
+percentage: 11.4%
+
+comp5111.assignment.cut.Subject$CharTasks
+percentage: 45.7%
+
+comp5111.assignment.cut.Subject$GregorianTasks
+percentage: 32.2%
+
+comp5111.assignment.cut.Subject
+percentage: 100.0%
+
+comp5111.assignment.cut.Subject$FilenameTasks
+percentage: 21.1%
+
+comp5111.assignment.cut.Subject$ArrayTasks
+percentage: 32.7%
+
+comp5111.assignment.cut.Subject$StringTasks
+percentage: 39.3%
+
+comp5111.assignment.cut.Subject$BooleanTasks
+percentage: 22.2%
