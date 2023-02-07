@@ -54,7 +54,7 @@ Windows version:
 ```
 java -ea -classpath %RANDOOP_JAR%;%TARGET% randoop.main.Main gentests --testclass=comp5111.assignment.cut.Subject --time-limit=60 --junit-package-name=comp5111.assignment.cut --junit-output-dir=%ROOT_DIR%/src/test/randoop0
 ```
-Windows users are recommend to use `Powershell` instead of `Command Prompt`, and replace the `environment variables` in the command with `relative path`. 
+Windows users are recommend to replace the `environment variables` in the command with `relative path`. 
 
 Note: The randoop parameters used in the command
 
