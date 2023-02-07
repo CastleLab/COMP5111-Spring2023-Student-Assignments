@@ -98,7 +98,7 @@ Each screenshot accounts for `1.5%` if the values in the screenshot are correct.
 Soot is a framework for analyzing and transforming Java programs.
 We have prepared a tutorial about Soot, [here](./tutorials/soot.md). Answers to some common questions are available, [here](Assignment1_FAQ.md).
 
-For Task 2, 3, and bonus task, we provide an [example test suite](./src/test/example_test) along with the its [statement coverage](./src/test/example_test/TA-stmt.txt), [branch coverage](./src/test/example_test/TA-branch.txt), and [line coverage](./src/test/example_test/TA-line.txt) collected by our implementation using Soot. You can run your program on this example test suite and crosscheck the coverage results with ours.
+For Task 2, 3, and bonus task, we provide an [example test suite](./src/test/example_test) along with the its [statement coverage](./src/test/example_test/TA-stmt.txt), [branch coverage](./src/test/example_test/TA-branch.txt), and [line coverage](./src/test/example_test/TA-line.txt) collected by our implementation using Soot. You can run your program on this example test suite and crosscheck the coverage results with ours, coverage reported by your tool should be close to ours.
 
 #### Requirements:
 1. Use Soot to instrument the given CUT to measure statement coverage of tests.
