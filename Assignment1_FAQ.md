@@ -69,8 +69,7 @@ There are multiple ways.
 
 ``java -cp ./path_to_junit_jar:./path_to_soot_classes org.junit.runner.JUnitCore [test class name]
 ``
-2. you can use the similar way shown by our [demo video](https://course.cse.ust.
-hk/comp5111/assignment/asg01/ScreenShow_Turtorial_1_720p.mov).
+2. you can use the similar way shown by our [demo video](https://course.cse.ust.hk/comp5111/assignment/asg01/ScreenShow_Turtorial_1_720p.mov).
    
 3. **(Recommended)** Use junit runner to run tests programmatically. 
 One tutorial can be found [here](https://github.com/junit-team/junit4/wiki/Test-runners).
