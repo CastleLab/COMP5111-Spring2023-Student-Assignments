@@ -109,5 +109,7 @@ This is related to the implementation of EclEmma. Please read [here](https://git
 
 We observe [defects](https://github.com/soot-oss/soot/issues/1641) in soot 4.3.0 and 4.4.0, thus we do not use the latest version of soot. Instead, we use soot 4.2.1.
 
+## 12. Missing artifact org.evosuite:evosuite:jar:1.2.0
 
+Currently, the newest evosuite (i.e., 1.2.0) has not been updated to Maven: https://repo.maven.apache.org/maven2/, therefore, you may encounter the `missing artifact org.evosuite` error when you are compiling your project using Maven. To solve this issue, you need to add the local jar into your maven project following [this](https://stackoverflow.com/questions/4491199/build-maven-project-with-propriatery-libraries-included/4491343#4491343) link. You can directly run the [script](scripts/install_latest_evosuite.sh) to install your local evosuite to your maven project.
 
