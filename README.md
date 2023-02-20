@@ -3,8 +3,7 @@
 ## Deadline: 11:55pm 18 March 2023
 
 ## Update
-
-
+(2023 Feb 20): Update one FAQ ([Q12](Assignment1_FAQ.md#12-missing-artifact-orgevosuiteevosuitejar120)).
 
 ## Assignment Objective
 
