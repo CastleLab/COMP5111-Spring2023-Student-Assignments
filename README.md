@@ -3,6 +3,8 @@
 ## Deadline: 11:55pm 18 March 2023
 
 ## Update
+(2023 Feb 25): Update one FAQ ([Q6](Assignment1_FAQ.md#6-how-to-run-the-junit-test-with-the-instrumented-classes)).
+
 (2023 Feb 20): Update one FAQ ([Q12](Assignment1_FAQ.md#12-missing-artifact-orgevosuiteevosuitejar120)).
 
 ## Assignment Objective
