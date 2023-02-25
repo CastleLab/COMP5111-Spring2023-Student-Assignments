@@ -67,8 +67,16 @@ In our assignment, there is no need to consider it.
 There are multiple ways.
 1. run the test using command line.
 
+Linux and MacOs version (bash):
+
 ``java -cp ./path_to_junit_jar:./path_to_soot_classes org.junit.runner.JUnitCore [test class name]
 ``
+
+Windows (bash):
+
+``java -classpath ./path_to_junit_jar;./path_to_soot_classes org.junit.runner.JUnitCore [test class name]
+``
+
 2. you can use the similar way shown by our [demo video](https://course.cse.ust.hk/comp5111/assignment/asg01/ScreenShow_Turtorial_1_720p.mov).
    
 3. **(Recommended)** Use junit runner to run tests programmatically. 
